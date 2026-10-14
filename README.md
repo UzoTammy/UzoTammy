@@ -3,7 +3,7 @@
 **Software Developer & AI Practitioner** based in Dartmouth, Nova Scotia 🇨🇦
 
 ## About Me
-- 🎓 Currently completing **IT Programming for AI** at Nova Scotia Community College
+- 🎓 **IT Programming for AI** graduate, Nova Scotia Community College (June 206)
 - 🐍 Building with **Python**, **TypeScript**, **React**, and **Django**
 - 🤖 Focused on **Machine Learning**, **Deep Learning**, and **AI Systems**
 - 🏢 Former founder of a trading company — 13+ years of business leadership
